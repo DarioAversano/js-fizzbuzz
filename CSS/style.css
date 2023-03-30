@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgba(0, 30, 199, 0.772);
+    background-color: rgba(19, 97, 19, 0.772);
 }
 
 #main-title {
@@ -21,7 +21,37 @@ body {
 .square {
     height: 100px;
     width: 100px;
-    background-color: aqua;
+    background-color: rgb(70, 80, 80);
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.squarebuzz {
+    height: 100px;
+    width: 100px;
+    background-color: rgba(238, 255, 0, 0.897);
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.squarefizz {
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 166, 0, 0.89);
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.squarefizzbuzz {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 0, 0);
     text-align: center;
     line-height: 100px;
     vertical-align: middle;
